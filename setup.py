@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "End-to-End-Kidney-Disease-Classification-Deep-Learning-Project"
 AUTHOR_USER_NAME = "harshpatel1605"
-SRC_REPO = "Kidney_Disease_Classification"
+SRC_REPO = "KidneyDiseaseClassification"
 AUTHOR_EMAIL = "harshpatel16052005@gmail.com"
 
 setuptools.setup(
